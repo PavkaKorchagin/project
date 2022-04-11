@@ -1,1 +1,1 @@
-content
+контент из Git Kraken
